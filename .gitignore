@@ -1,0 +1,7 @@
+/.vscode
+/.idea
+/.git
+/package-lock.json
+/node_modules
+/static/dist
+/ding_yapi

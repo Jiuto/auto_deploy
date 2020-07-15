@@ -1,0 +1,16 @@
+{
+  "name": "djncps_app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "koa": "^2.13.0",
+    "koa-mount": "^4.0.0",
+    "taskkill": "^3.1.0"
+  }
+}
