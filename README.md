@@ -1,0 +1,5 @@
+# auto_deploy 简易自动化部署服务
+
+一个通过页面按钮完成一键部署的demo，可选择链接的后端环境地址
+
+部署服务的后端使用，具体git操作使用child_process执行命令，taskkill负责杀死进程，项目的启动使用http-server
