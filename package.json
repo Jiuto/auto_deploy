@@ -1,12 +1,12 @@
 {
-  "name": "djncps_app",
+  "name": "auto_deploy",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "author": "Jiuto",
   "license": "ISC",
   "devDependencies": {
     "koa": "^2.13.0",
